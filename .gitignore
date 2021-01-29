@@ -1,0 +1,8 @@
+# General
+target
+
+# IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
